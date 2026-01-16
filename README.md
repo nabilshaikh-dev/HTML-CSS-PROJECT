@@ -24,5 +24,3 @@ MERN Stack Developer (Learner)
 
 ---
 ⭐ If you like this repository, feel free to star it
-
-Updated README with project details
